@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.h-100{
+  height: 1000px;
+}
+.pt-10{
+  padding-top:200px;
+}
+.bg-body-brown{
+  background-color: rgb(53, 17, 10);
+}
+.m-n5{
+  margin-top: -25px;
+}
+
+.hero-image{
+  background-image: url('/src/components/img/Product/pablo-merchan-montes.webp');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+
+.hero-image .backgroundOverlay {
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background: #310000;
+	opacity: .85;
+	filter: alpha(opacity=85);
+	-moz-opacity: .85;
+	z-index: 101;
+	display: none;
+}
