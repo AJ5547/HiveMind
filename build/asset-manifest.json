@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6b47ccf.css",
+    "main.js": "/static/js/main.f6bb667d.js",
+    "static/js/787.bf7e785f.chunk.js": "/static/js/787.bf7e785f.chunk.js",
+    "static/media/pablo-merchan-montes.webp": "/static/media/pablo-merchan-montes.9e90eea5f06ee53407b5.webp",
+    "index.html": "/index.html",
+    "main.e6b47ccf.css.map": "/static/css/main.e6b47ccf.css.map",
+    "main.f6bb667d.js.map": "/static/js/main.f6bb667d.js.map",
+    "787.bf7e785f.chunk.js.map": "/static/js/787.bf7e785f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6b47ccf.css",
+    "static/js/main.f6bb667d.js"
+  ]
+}
