@@ -1,5 +1,4 @@
 import Here from "./img/img/about.png";
-import Fresh from "./img/img/service-1.jpg";
 
 const About = () => {
     return (
@@ -23,7 +22,7 @@ const About = () => {
             <div className="col-lg-4 py-5 py-lg-0" style={{minHeight: 500 + "px"}}>
                 <div className="position-relative h-100">
                     <img className="position-absolute w-100 h-100" src={Here}
-                        style={{objectFit: "cover"}} />
+                        style={{objectFit: "cover"}} alt="Inbetween the Two Blocks of text" />
                 </div>
             </div>
             <div className="col-lg-4 py-0 py-lg-5">
