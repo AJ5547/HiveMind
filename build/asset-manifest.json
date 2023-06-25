@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6b47ccf.css",
-    "main.js": "/static/js/main.f6bb667d.js",
+    "main.css": "/static/css/main.dbcc5e96.css",
+    "main.js": "/static/js/main.ad733042.js",
     "static/js/787.bf7e785f.chunk.js": "/static/js/787.bf7e785f.chunk.js",
+    "static/media/about.png": "/static/media/about.eaecffd48600a7dd44fd.png",
+    "static/media/service-1.jpg": "/static/media/service-1.d7febddd4fe0b8ddd2fd.jpg",
     "static/media/pablo-merchan-montes.webp": "/static/media/pablo-merchan-montes.9e90eea5f06ee53407b5.webp",
     "index.html": "/index.html",
-    "main.e6b47ccf.css.map": "/static/css/main.e6b47ccf.css.map",
-    "main.f6bb667d.js.map": "/static/js/main.f6bb667d.js.map",
+    "main.dbcc5e96.css.map": "/static/css/main.dbcc5e96.css.map",
+    "main.ad733042.js.map": "/static/js/main.ad733042.js.map",
     "787.bf7e785f.chunk.js.map": "/static/js/787.bf7e785f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6b47ccf.css",
-    "static/js/main.f6bb667d.js"
+    "static/css/main.dbcc5e96.css",
+    "static/js/main.ad733042.js"
   ]
 }
