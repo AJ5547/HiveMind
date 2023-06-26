@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbcc5e96.css",
-    "main.js": "/static/js/main.ad733042.js",
+    "main.css": "/static/css/main.1724df80.css",
+    "main.js": "/static/js/main.6b829db2.js",
     "static/js/787.bf7e785f.chunk.js": "/static/js/787.bf7e785f.chunk.js",
+    "static/media/hazelnut.webp": "/static/media/hazelnut.b9c71b80370bfd40de74.webp",
+    "static/media/rodnae-productions.webp": "/static/media/rodnae-productions.730444842c7754dd749f.webp",
+    "static/media/mocha.webp": "/static/media/mocha.3ef6b09102fa5a9f0538.webp",
     "static/media/about.png": "/static/media/about.eaecffd48600a7dd44fd.png",
-    "static/media/service-1.jpg": "/static/media/service-1.d7febddd4fe0b8ddd2fd.jpg",
+    "static/media/oriol-portell.webp": "/static/media/oriol-portell.8357b537b2d71e3d66ab.webp",
+    "static/media/project-290.webp": "/static/media/project-290.1d37853fc7c469911b13.webp",
+    "static/media/heather-barnes.webp": "/static/media/heather-barnes.816561afc9d9e9ddb8df.webp",
+    "static/media/tabitha-turner.webp": "/static/media/tabitha-turner.13549d1f79b68e123c0b.webp",
     "static/media/pablo-merchan-montes.webp": "/static/media/pablo-merchan-montes.9e90eea5f06ee53407b5.webp",
+    "static/media/arnold-palmer.webp": "/static/media/arnold-palmer.6c9405bef5d00cb34731.webp",
+    "static/media/ann.webp": "/static/media/ann.30836f969f62bbfc0b5f.webp",
     "index.html": "/index.html",
-    "main.dbcc5e96.css.map": "/static/css/main.dbcc5e96.css.map",
-    "main.ad733042.js.map": "/static/js/main.ad733042.js.map",
+    "main.1724df80.css.map": "/static/css/main.1724df80.css.map",
+    "main.6b829db2.js.map": "/static/js/main.6b829db2.js.map",
     "787.bf7e785f.chunk.js.map": "/static/js/787.bf7e785f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbcc5e96.css",
-    "static/js/main.ad733042.js"
+    "static/css/main.1724df80.css",
+    "static/js/main.6b829db2.js"
   ]
 }

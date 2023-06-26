@@ -4,7 +4,7 @@ import './../App.css';
 const Header = () => {
     return (
         <>
-    <nav className="navbar navbar-expand-lg bg-body-brown hero-image backgroundOverlay">
+    <nav className="navbar navbar-expand-lg bg-body-brown container-md">
   <div className="container-fluid">
     <h1 className="text-white text-uppercase mr-5" href="empty">Hivemind</h1>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

@@ -65,6 +65,9 @@ const About = () => {
                     </div>
                 </div>
             </div>
+            {/* <div class="d-flex" style={{height: 200 +"px"}}>
+  <div class="vr"></div>
+</div> */}
             <div className="col-lg-6 mb-5">
                 <div className="row align-items-center">
                     <div className="col-sm-5">
