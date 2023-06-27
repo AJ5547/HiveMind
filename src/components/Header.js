@@ -1,5 +1,6 @@
 // import Hero from "./img/Product/pablo-merchan-montes.webp";
 import './../App.css';
+import Contact from './Contact'
 
 const Header = () => {
     return (
@@ -32,7 +33,7 @@ const Header = () => {
           </ul>
         </li>
         <li className="nav-item px-3">
-          <a className="nav-link text-white" href="empty">Contact</a>
+          <a className="nav-link text-white" href={Contact}>Contact</a>
         </li>
       
       </ul>
