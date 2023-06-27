@@ -9,12 +9,10 @@ const Footer = () => {
         </div>
 
         <div className="row">
-            <div className="col px-5">
+            <div className="col px-4">
                 <h3> About Our Company</h3>
                 <p className="footer-info">In 2018 we wanted to open up a cafe where people could come to relax, and
-                    enjoy a wide variety of food and drinks.
-                    We didn't have the resources back then, so as we saved up for a building we worked
-                    tirelessly to get our products perfected.</p>
+                    enjoy a wide variety of food and drinks. We didn't have the resources back then, so as we saved up for a building we worked tirelessly to get our products perfected.</p>
             </div>
             <div className="col">
                 <h3> Contact Us!</h3>
@@ -48,8 +46,8 @@ const Footer = () => {
         </div>
 
         <div className="container-fluid text-center text-white border-top mt-4 py-4 px-sm-3 px-md-5"
-            style={{borderColor: "rgba(${256}, ${256}, ${256}, ${0.1})"+ "!important"}}>
-            <p className="mb-2 text-white font-weight-light" style={{fontFamily: "Arial" + "Helvetica"}}>Copyright &copy; <a className="font-weight-normal" href="#">Arlo Jackson.
+            style={{borderColor: `rgba(\${256}, \${256}, \${256}, \${0.1}) !important`}}>
+            <p className="mb-2 text-white font-weight-light" style={{fontFamily: "Arial" + "Helvetica"}}>Copyright &copy; <a className="font-weight-normal" href="blank">Arlo Jackson.
                 All
                 Rights Reserved.</a></p>
         </div>

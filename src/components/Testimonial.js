@@ -13,7 +13,7 @@ const Testimonial = ()=>{
                         <h1 className="display-4">Our Clients Say</h1>
                     </div>
                     <div className="owl-carousel testimonial-carousel">
-                        <div className="testimonial-item">
+                        <div className="testimonial-item p-3">
                             <div className="d-flex align-items-center mb-3">
                                 <img className="img-fluid" src={One} alt="Lucie" />
                                 <div className="ml-3">
@@ -24,7 +24,7 @@ const Testimonial = ()=>{
                                 The coffee itself is always fresh and delicious, with just the right amount of flavor.
                                 Overall, HiveMind is my favorite coffee spot!</p>
                         </div>
-                        <div className="testimonial-item">
+                        <div className="testimonial-item p-3">
                             <div className="d-flex align-items-center mb-3">
                                 <img className="img-fluid" src={Two} alt="Mars" />
                                 <div className="ml-3">
@@ -38,7 +38,7 @@ const Testimonial = ()=>{
                                 making the entire experience even better. Highly recommend HiveMind for anyone looking
                                 for a quick bite or a casual lunch spot!</p>
                         </div>
-                        <div className="testimonial-item">
+                        <div className="testimonial-item p-3">
                             <div className="d-flex align-items-center mb-3">
                                 <img className="img-fluid" src={Three} alt="Jeremiah" />
                                 <div className="ml-3">
