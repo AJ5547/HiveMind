@@ -1,8 +1,9 @@
 import Here from "./img/img/about.png";
+import React from 'react';
 
 const About = () => {
     return (
-        <>
+        <div>
     <div className="container-fluid py-5">
     <div className="container">
         <div className="section-title">
@@ -86,7 +87,7 @@ const About = () => {
     </div>
     <hr />
 </div>
-</>
+</div>
     )
 }
 export default About;

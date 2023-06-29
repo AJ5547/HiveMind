@@ -1,10 +1,14 @@
 // import Hero from "./img/Product/pablo-merchan-montes.webp";
 import './../App.css';
 import Contact from './Contact'
+import React from 'react';
+import Home from './Home';
+import { Link } from 'react-router-dom';
+
 
 const Header = () => {
     return (
-        <>
+        <div>
     <nav className="navbar navbar-expand-lg bg-body-brown container-md navbar-dark">
   <div className="container-fluid">
     <h1 className="text-white text-uppercase mr-5" href="empty">Hivemind</h1>
@@ -14,7 +18,7 @@ const Header = () => {
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav me-auto mb-2 mb-lg-0">
         <li className="nav-item px-3">
-          <a className="nav-link text-white active" aria-current="page" href="empty">Home</a>
+          <Link className="nav-link text-white" to="/Home"> Home </Link>
         </li>
         <li className="nav-item px-3">
           <a className="nav-link text-white" href="empty">About</a>
@@ -33,7 +37,7 @@ const Header = () => {
           </ul>
         </li>
         <li className="nav-item px-3">
-          <a className="nav-link text-white" href={Contact}>Contact</a>
+         <Link className="nav-link text-white" to="/Contact"> Contact </Link>
         </li>
       
       </ul>
@@ -44,29 +48,7 @@ const Header = () => {
     </div>
   </div>
 </nav>
-<div style={{height: 10000 + 'px'}} className="container-fluid p-0 mb-5 hero-image backgroundOverlay h-100">
-        
-                <div className="carousel-item active d-flex flex-column align-items-center justify-content-center pt-10">
-                    <h1 className='text-white'> HiveMind</h1>
-                    <br />
-                    <h2 className='text-white'> Local Cafe and Bakery</h2>
-                    <br />
-                    <h2 className='text-white'> Serving Since *2020*</h2>
-                </div>
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   <br />
-                   
-</div>
-        </>
+        </div>
     )
 }
 export default Header;

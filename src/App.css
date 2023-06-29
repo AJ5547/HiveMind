@@ -9,14 +9,14 @@
   padding-top:200px;
 }
 .bg-body-brown{
-  background-color: rgba(15, 9, 8, 0.904);
+  background-color:  rgb(19, 10, 3);
 }
 .m-n5{
   margin-top: -25px;
 }
 
 .hero-image{
-  background-image: url('/src/components/img/Product/pablo-merchan-montes.webp');
+  background-image: url('./components/img/Product/pablo-merchan-montes.webp');
   background-size: cover;
   background-repeat: no-repeat;
   

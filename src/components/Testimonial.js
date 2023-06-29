@@ -1,10 +1,11 @@
 import One from './img/img/testimonial-1.jpg';
 import Two from './img/img/testimonial-3.jpg';
 import Three from './img/img/testimonial-2.jpg';
+import React from 'react';
 
 const Testimonial = ()=>{
     return(
-        <>
+        <div>
         <div className="container-fluid py-5 overflow-x-hidden">
                 <div className="container">
                     <div className="section-title">
@@ -56,7 +57,7 @@ const Testimonial = ()=>{
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

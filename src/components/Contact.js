@@ -1,6 +1,10 @@
+
+import React from 'react';
+import Header from './Header';
+
 const Contact = () =>{
     return(
-        <>
+        <div>
         <div className="container-fluid pt-5">
         <div className="container">
             <div className="section-title">
@@ -62,7 +66,7 @@ const Contact = () =>{
             </div>
         </div>
     </div>
-        </>
+        </div>
     )
 }
 

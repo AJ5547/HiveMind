@@ -7,13 +7,14 @@ import ArnoldPalmer from './img/Product/Tea/arnold-palmer.webp';
 import ColdBrew from './img/Product/Coffee/tabitha-turner.webp';
 import HazelnutLatte from './img/Product/Coffee/hazelnut.webp';
 import Cappuccino from './img/Product/Coffee/mocha.webp';
+import React from 'react';
 
 
 
 
 const Menu = () =>{
     return(
-        <>
+        <div>
          <div className="container-fluid pt-5 overflow-x-hidden">
                 <div className="container">
                     <div className="section-title">
@@ -162,7 +163,7 @@ const Menu = () =>{
                     </div>
                 </div>
             </div>
-        </>
+        </div>
     )
 }
 

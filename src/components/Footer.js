@@ -1,6 +1,10 @@
+import React from 'react';
+import Logo from './img/Logos/favicon-3-3.png';
+import { Link } from 'react-router-dom/cjs/react-router-dom.min';
+
 const Footer = () => {
     return(
-        <>
+        <div>
         <footer className="h-25">
         <div className="footer-content">
             <h1 className="m-0 display-4 text-uppercase text-white">HiveMind</h1>
@@ -9,11 +13,6 @@ const Footer = () => {
         </div>
 
         <div className="row">
-            <div className="col px-4">
-                <h3> About Our Company</h3>
-                <p className="footer-info">In 2018 we wanted to open up a cafe where people could come to relax, and
-                    enjoy a wide variety of food and drinks. We didn't have the resources back then, so as we saved up for a building we worked tirelessly to get our products perfected.</p>
-            </div>
             <div className="col">
                 <h3> Contact Us!</h3>
                 <p className="footer-info"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" className="bi bi-envelope-fill" viewBox="0 0 16 16">
@@ -29,6 +28,14 @@ const Footer = () => {
                     <br />
 
                 </p>
+            </div>
+            <div className='col'>
+                <h3> Products</h3>
+                <div className='text-left'>
+                <Link className='text-left'> Coffee </Link>
+                <Link className="text-left"> Tea</Link>
+                <Link className="text-left"> Food</Link>
+                </div>
             </div>
         </div>
 
@@ -54,7 +61,7 @@ const Footer = () => {
 
     </footer>
         
-        </>
+        </div>
     )
 }
 
