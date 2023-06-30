@@ -9,8 +9,7 @@ const Testimonial = ()=>{
         <div className="container-fluid py-5 overflow-x-hidden">
                 <div className="container">
                     <div className="section-title">
-                        <h4 className="text-primary text-uppercase" style={{letterSpacing: 5+"px"}}> <a href="testimonial.html"
-                                style={{textDecoration: "none"}}>Testimonial</a> </h4>
+                        <h4 className="text-primary text-uppercase" style={{letterSpacing: 5+"px"}}>Testimonial</h4>
                         <h1 className="display-4">Our Clients Say</h1>
                     </div>
                     <div className="owl-carousel testimonial-carousel">

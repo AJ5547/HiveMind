@@ -1,8 +1,6 @@
 // import Hero from "./img/Product/pablo-merchan-montes.webp";
 import './../App.css';
-import Contact from './Contact'
 import React from 'react';
-import Home from './Home';
 import { Link } from 'react-router-dom';
 
 
@@ -21,10 +19,10 @@ const Header = () => {
           <Link className="nav-link text-white" to="/Home"> Home </Link>
         </li>
         <li className="nav-item px-3">
-          <a className="nav-link text-white" href="empty">About</a>
+          <a className="nav-link text-white" href="#about">About</a>
         </li>
         <li className="nav-item px-3">
-          <a className="nav-link text-white" href="empty">Tesimonial</a>
+          <a className="nav-link text-white" href="#testimonial">Tesimonial</a>
         </li>
         <li className="nav-item px-3 dropdown text-white">
           <a className="nav-link dropdown-toggle text-white" href="empty" role="button" data-bs-toggle="dropdown" aria-expanded="false">

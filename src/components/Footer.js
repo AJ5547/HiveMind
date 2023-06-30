@@ -1,5 +1,4 @@
 import React from 'react';
-import Logo from './img/Logos/favicon-3-3.png';
 import { Link } from 'react-router-dom/cjs/react-router-dom.min';
 
 const Footer = () => {
