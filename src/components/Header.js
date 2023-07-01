@@ -29,9 +29,9 @@ const Header = () => {
             Menu
           </a>
           <ul className="dropdown-menu text-white bg-body-brown">
-            <li><a className="dropdown-item text-white" href="empty">Tea</a></li>
-            <li><a className="dropdown-item text-white" href="empty">Coffee</a></li>
-            <li><a className="dropdown-item text-white" href="empty">Food</a></li>
+            <li><Link className="dropdown-item text-white" to="/Menu/Tea">Tea</Link></li>
+            <li><Link className="dropdown-item text-white" to="/Menu/Coffee">Coffee</Link></li>
+            <li><Link className="dropdown-item text-white" to="/Menu/Food">Food</Link></li>
           </ul>
         </li>
         <li className="nav-item px-3">

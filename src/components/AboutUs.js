@@ -7,7 +7,7 @@ const About = () => {
     <div className="container-fluid py-5">
     <div className="container">
         <div className="section-title">
-            <h4 className="text-primary text-uppercase" style={{letterSpacing: 5 + "px"}}>About Us</h4>
+            <h4 className="text-brown text-uppercase" style={{letterSpacing: 5 + "px"}}>About Us</h4>
             <h1 className="display-4" id="about">Serving Since 2020</h1>
         </div>
         <div className="row">
@@ -27,7 +27,7 @@ const About = () => {
                 </div>
             </div>
             <div className="col-lg-4 py-0 py-lg-5">
-                <h1 className="mb-3">Our Vision</h1>
+                <h1 className="mb-3 text-brown">Our Vision</h1>
                 <p style={{fontFamily: "Helvetica", fontSize: 20 + "px"}}>We want to create a relaxing, accepting cafe with a wide variety of products. We locally
                     source a lot of our products, and if we cant we make sure they can be got from
                     sustainable
@@ -45,7 +45,7 @@ const About = () => {
 <div className="container-fluid pt-5">
     <div className="container">
         <div className="section-title">
-            <h4 className="text-primary text-uppercase" style={{letterSpacing: 5 +"px"}}>Our Services</h4>
+            <h4 className="text-brown text-uppercase" style={{letterSpacing: 5 +"px"}}>Our Services</h4>
             <h1 className="display-4">Fresh Beans, and Food</h1>
         </div>
         <div className="row">

@@ -18,7 +18,7 @@ const Menu = () =>{
          <div className="container-fluid pt-5 overflow-x-hidden">
                 <div className="container">
                     <div className="section-title">
-                        <h4 className="text-primary text-uppercase" style={{letterSpacing: 5 + "px"}}>Menu & Pricing</h4>
+                        <h4 className="text-brown text-uppercase" style={{letterSpacing: 5 + "px"}}>Menu & Pricing</h4>
                     </div>
                     <div className="row">
                         <div className="col-lg-6">
