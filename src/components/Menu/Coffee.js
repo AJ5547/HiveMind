@@ -1,4 +1,13 @@
 import React from 'react';
+import CocoaBeanFrappe from './../img/Product/Coffee/cocoa-bean-frappe.webp';
+import Cappuccino from "./../img/Product/Coffee/mocha.webp";
+import EspressoMocha from "./../img/Product/Coffee/espresso.webp";
+import IcedCoffee from "./../img/Product/Coffee/iced-coffee.webp";
+import CaramelMochaFrappe from "./../img/Product/Coffee/caramel.webp";
+import HazelnutLatte from "./../img/Product/Coffee/hazelnut.webp";
+import ColdBrew from "./../img/Product/Coffee/tabitha-turner.webp";
+import VanillaLatte from './../img/Product/Coffee/valeriia-miller.webp';
+import BlackCoffee from './../img/Product/Coffee/black-coffee.webp';
 
 const Coffee = () =>{
     return(
@@ -43,7 +52,7 @@ const Coffee = () =>{
         <div className="productRow"> 
           <article className="productInfo">
             <div id="1"> 
-              <img src="img/Product/Coffee/black-coffee.webp" alt="Coffee" />
+              <img src={BlackCoffee} alt="Coffee" />
             </div>
             <br />
             <p className="price"> $1.95 </p>
@@ -54,7 +63,7 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="2"> 
-              <img src="img/Product/Coffee/valeriia-miller.webp" alt="Vanilla Latte" />
+              <img src={VanillaLatte} alt="Vanilla Latte" />
             </div>
             <br />
             <p className="price"> $3.30</p>
@@ -64,7 +73,7 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="3"> 
-              <img src="img/Product/Coffee/tabitha-turner.webp" alt="Cold Brew" />
+              <img src={ColdBrew} alt="Cold Brew" />
             </div>
             <br />
             <p className="price">$4.40 </p>
@@ -79,7 +88,7 @@ const Coffee = () =>{
         <div className="productRow"> 
           <article className="productInfo">
             <div id="4"> 
-              <img src="img/Product/Coffee/hazelnut.webp" alt="Hazelnut Latte" />
+              <img src={HazelnutLatte} alt="Hazelnut Latte" />
             </div>
             <br />
             <p className="price"> $4.99 </p>
@@ -90,7 +99,7 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="5"> 
-              <img src="img/Product/Coffee/caramel.webp" alt="Caramel Mocha Frappe" />
+              <img src={CaramelMochaFrappe} alt="Caramel Mocha Frappe" />
             </div>
             <br />
             <p className="price">$4.99 </p>
@@ -100,7 +109,7 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="6"> 
-              <img src="img/Product/Coffee/iced-coffee.webp" alt="Iced Coffee" />
+              <img src={IcedCoffee} alt="Iced Coffee" />
             </div>
             <br />
             <p className="price">$2.80 </p>
@@ -112,7 +121,7 @@ const Coffee = () =>{
         <div className="productRow"> 
           <article className="productInfo">
             <div id="7"> 
-              <img src="img/Product/Coffee/espresso.webp" alt="Espresso" />
+              <img src={EspressoMocha} alt="Espresso" />
             </div>
             <br />
             <p className="price"> $4.00 </p>
@@ -122,7 +131,7 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="8"> 
-              <img src="img/Product/Coffee/mocha.webp" alt="Cappuccino" />
+              <img src={Cappuccino} alt="Cappuccino" />
             </div>
             <br />
             <p className="price"> $3.99</p>
@@ -132,14 +141,14 @@ const Coffee = () =>{
           </article>
           <article className="productInfo">
             <div id="9"> 
-              <img src="img/Product/Coffee/cocoa-bean-frappe.webp" alt="Cocoa Bean Frappe" />
+              <img src={CocoaBeanFrappe} alt="Cocoa Bean Frappe" />
             </div>
             <br />
             <p className="price"> $4.00 </p>
             <p className="productContent">Cocoa Bean Frappe</p>
             <p style={{marginTop:-45 , marginBottom:-25 }}>Introducing the Coco Bean Frappe! This latte-style beverage is made with whipped topping, chocolate drizzle, and chocolate coffee taste.</p>
             <br />
-          </article>
+          </article>c
         </div>
       <br />
       </section>

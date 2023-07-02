@@ -7,8 +7,8 @@ const About = () => {
     <div className="container-fluid py-5">
     <div className="container">
         <div className="section-title">
-            <h4 className="text-brown text-uppercase" style={{letterSpacing: 5 + "px"}}>About Us</h4>
-            <h1 className="display-4" id="about">Serving Since 2020</h1>
+            <h1 className="text-brown text-uppercase" style={{letterSpacing: 5 + "px"}}>About Us</h1>
+            <h2 className="display-4" id="about">Serving Since 2020</h2>
         </div>
         <div className="row">
             <div className="col-lg-4 py-0 py-lg-5">
