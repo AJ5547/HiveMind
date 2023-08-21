@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/HiveMind/static/css/main.311dd065.css",
+    "main.js": "/HiveMind/static/js/main.1cd1c226.js",
+    "static/js/787.bf7e785f.chunk.js": "/HiveMind/static/js/787.bf7e785f.chunk.js",
+    "static/media/hazelnut.webp": "/HiveMind/static/media/hazelnut.b9c71b80370bfd40de74.webp",
+    "static/media/rodnae-productions.webp": "/HiveMind/static/media/rodnae-productions.730444842c7754dd749f.webp",
+    "static/media/mocha.webp": "/HiveMind/static/media/mocha.3ef6b09102fa5a9f0538.webp",
+    "static/media/caramel.webp": "/HiveMind/static/media/caramel.11e390d1250baf5004ba.webp",
+    "static/media/about.png": "/HiveMind/static/media/about.eaecffd48600a7dd44fd.png",
+    "static/media/black-coffee.webp": "/HiveMind/static/media/black-coffee.12033a04e5456bcb06ca.webp",
+    "static/media/iced-coffee.webp": "/HiveMind/static/media/iced-coffee.65a8810f443c95b4db3a.webp",
+    "static/media/espresso.webp": "/HiveMind/static/media/espresso.0101f473d892776cf380.webp",
+    "static/media/oriol-portell.webp": "/HiveMind/static/media/oriol-portell.8357b537b2d71e3d66ab.webp",
+    "static/media/cocoa-bean-frappe.webp": "/HiveMind/static/media/cocoa-bean-frappe.0786f98bd86ad228af43.webp",
+    "static/media/valeriia-miller.webp": "/HiveMind/static/media/valeriia-miller.c2627b162aeaff718c22.webp",
+    "static/media/project-290.webp": "/HiveMind/static/media/project-290.1d37853fc7c469911b13.webp",
+    "static/media/heather-barnes.webp": "/HiveMind/static/media/heather-barnes.816561afc9d9e9ddb8df.webp",
+    "static/media/tabitha-turner.webp": "/HiveMind/static/media/tabitha-turner.13549d1f79b68e123c0b.webp",
+    "static/media/pablo-merchan-montes.webp": "/HiveMind/static/media/pablo-merchan-montes.9e90eea5f06ee53407b5.webp",
+    "static/media/arnold-palmer.webp": "/HiveMind/static/media/arnold-palmer.6c9405bef5d00cb34731.webp",
+    "static/media/ann.webp": "/HiveMind/static/media/ann.30836f969f62bbfc0b5f.webp",
+    "index.html": "/HiveMind/index.html",
+    "static/media/shoppingCart(1).svg": "/HiveMind/static/media/shoppingCart(1).a00b46282af3df8f2f976bf78fad2e7d.svg",
+    "main.311dd065.css.map": "/HiveMind/static/css/main.311dd065.css.map",
+    "main.1cd1c226.js.map": "/HiveMind/static/js/main.1cd1c226.js.map",
+    "787.bf7e785f.chunk.js.map": "/HiveMind/static/js/787.bf7e785f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.311dd065.css",
+    "static/js/main.1cd1c226.js"
+  ]
+}
